@@ -1,0 +1,15 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: profile
+  data:
+    mongodb:
+      uri: mongodb://mongo:mongo@localhost:27017/storyteller?authSource=admin
+
+# Eureka Client Configuration
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/

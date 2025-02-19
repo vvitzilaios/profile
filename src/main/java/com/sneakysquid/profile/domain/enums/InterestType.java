@@ -1,0 +1,31 @@
+package com.sneakysquid.profile.domain.enums;
+
+public enum InterestType {
+    TECHNOLOGY,
+    SCIENCE,
+    LITERATURE,
+    FICTION,
+    HISTORY,
+    ART,
+    MUSIC,
+    PHOTOGRAPHY,
+    SPORTS,
+    FITNESS,
+    TRAVEL,
+    FOOD,
+    BUSINESS,
+    INVESTING,
+    SELF_IMPROVEMENT,
+    GAMING,
+    MOVIES,
+    THEATER,
+    PHILOSOPHY,
+    PSYCHOLOGY,
+    WRITING,
+    EDUCATION,
+    POLITICS,
+    ENVIRONMENT,
+    HEALTH,
+    ASTRONOMY,
+    ARCHITECTURE
+}
